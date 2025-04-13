@@ -1,4 +1,34 @@
 # AI-Powered-Cloud-Hangman
-AI-Cloud-Hangman is an interactive online Hangman game built with HTML, CSS, and JavaScript, featuring both singleplayer and multiplayer modes. The game integrates cloud-based database storage for managing game sessions, ensuring seamless gameplay across devices. Additionally, it incorporates AI-powered hints through API requests, providing dynamically generated clues to enhance the player experience. The game supports both English and Portuguese, making it accessible to a wider audience.
 
-This project showcases modern web development, cloud computing, and AI integration, delivering an engaging and intelligent Hangman experience.
+An interactive and intelligent Hangman game that brings together modern web development, cloud computing, and AI.
+
+## 🌐 Technologies Used
+- **HTML**, **CSS**, **JavaScript** – Front-end interface
+- **Cloud-based database** – Session management and data storage
+- **AI-powered API** – Dynamic hint generation
+- **i18n Support** – English and Portuguese languages
+
+## 🎮 Game Modes
+- **Singleplayer** – Play against the computer with AI-generated hints
+- **Multiplayer** – Play with friends using shared cloud sessions
+
+## ☁️ Cloud Integration
+- Real-time session tracking
+- Persistent game state across devices
+
+## 🤖 AI Integration
+- Intelligent hints powered by external AI APIs
+- Hints adapt dynamically to game progress
+
+## 🌍 Accessibility
+- Supports both English and Portuguese
+- Seamless experience across multiple devices
+
+## 🧠 Project Highlights
+- Combines front-end development with cloud and AI technologies
+- Engaging, responsive, and multilingual gameplay
+- Demonstrates integration of real-time multiplayer and smart assistance
+
+---
+
+Enjoy an advanced twist on the classic Hangman experience!
